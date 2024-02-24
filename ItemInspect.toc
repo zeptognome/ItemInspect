@@ -1,0 +1,18 @@
+## Interface: 100205
+
+## Title: ItemInspect
+## Notes: Addon for Inspecting Item properties
+## Author: Zeptognome
+## Version: v0.1
+## X-Date: 2024-02-24T06:46:40Z
+## IconTexture: Interface\Icons\inv_misc_bag_15
+
+## DefaultState: Enabled
+
+## X-Category: ?
+## X-License: MIT
+## X-Curse-Project-ID: ?
+## X-Wago-ID: ?
+
+ItemInspect.lua
+

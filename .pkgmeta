@@ -1,0 +1,9 @@
+package-as: ItemInspect
+
+ignore:
+  - annotations.lua
+  - README.md
+  - .github
+  - .packager
+  - .release
+  - .badges
